@@ -1,6 +1,6 @@
 # Database-Replication
 
-This project requires the following packages to be installed:
+This Repo requires the following packages to be installed:
 1- EF core
 2- Rebus
 3- Rebus.sqlServer
