@@ -1,0 +1,12 @@
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\bin\Debug\net9.0\Replication.Domain.deps.json
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\bin\Debug\net9.0\Replication.Domain.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\bin\Debug\net9.0\Replication.Domain.pdb
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.csproj.AssemblyReference.cache
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.AssemblyInfoInputs.cache
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.AssemblyInfo.cs
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\refint\Replication.Domain.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.pdb
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\ref\Replication.Domain.dll

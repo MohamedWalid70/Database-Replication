@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tr4lgEBgwx8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Replication.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MW-PC\\.nuget\\packages\\fluentresults\\3.16.0\\fluentresults.3.16.0.nupkg.sha512",
+    "C:\\Users\\MW-PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\MW-PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

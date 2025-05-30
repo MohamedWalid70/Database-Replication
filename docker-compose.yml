@@ -1,0 +1,24 @@
+services:
+  replication.api:
+    image: ${DOCKER_REGISTRY-}replicationapi
+    container_name: replication-api
+    build:
+      context: .
+      dockerfile: Replication.API/Dockerfile
+    ports:
+      - 5000:5000
+      - 5001:5001
+
+  replication.mq:
+    image: rabbitmq:3-management
+    container_name: replication-mq
+    hostname: replication-mq
+    volumes:
+        - ./.containers/queue/data/:/var/lib/rabbitmq
+        - ./.containers/queue/log/:/var/log/rabbitmq
+    ports:
+        - 5672:5672
+        - 15672:15672
+    environment:
+        RABBITMQ.DEFAULT_USER: guest
+        RABBITMQ.DEFAULT_PASS: guest

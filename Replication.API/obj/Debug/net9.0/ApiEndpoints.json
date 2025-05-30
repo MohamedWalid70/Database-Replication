@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Replication.API.Controllers.TransactionsController",
+    "Method": "AddTransaction",
+    "RelativePath": "v1/Transactions/specific-transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionDto",
+        "Type": "Replication.API.Dtos.Transaction.TransactionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

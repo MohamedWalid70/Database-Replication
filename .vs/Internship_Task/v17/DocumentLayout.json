@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\transactions\\sendtransactiondatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\transactions\\sendtransactiondatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\sagas\\replicationtransactions\\transactioncreatesaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\sagas\\replicationtransactions\\transactioncreatesaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\data\\migrations\\20250530195632_addingreplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\data\\migrations\\20250530195632_addingreplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\data\\migrations\\20250529105010_transactiondbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\data\\migrations\\20250529105010_transactiondbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\transactions\\transactionmessagesandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\transactions\\transactionmessagesandevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\transactions\\commands\\replicate\\replicatetransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\transactions\\commands\\replicate\\replicatetransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\data\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\data\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.domain\\entities\\transaction\\infrastructuretransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|solutionrelative:replication.domain\\entities\\transaction\\infrastructuretransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.domain\\entities\\transactionreplication\\transactionreplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|solutionrelative:replication.domain\\entities\\transactionreplication\\transactionreplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.domain\\entities\\transaction\\infrastructuretransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3296E496-8FDA-4B2C-B864-C1C7AEF141E1}|Replication.Domain\\Replication.Domain.csproj|solutionrelative:replication.domain\\entities\\transaction\\infrastructuretransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\transactions\\commands\\add\\addtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\transactions\\commands\\add\\addtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\sagas\\replicationtransactions\\transactioncreatesagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\sagas\\replicationtransactions\\transactioncreatesagadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\sagas\\replicationtransactions\\transactionreplicationstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\sagas\\replicationtransactions\\transactionreplicationstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\transactions\\commands\\add\\addtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\transactions\\commands\\add\\addtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\replication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\replication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\infrastructureassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\infrastructureassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\replication.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\replication.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.api\\dtos\\transaction\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B4F85E-CE66-4376-81EB-39421A46F849}|Replication.API\\Replication.API.csproj|solutionrelative:replication.api\\dtos\\transaction\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\abstractions\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.infrastructure\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2233F609-D0EB-40F5-A331-2871ED842147}|Replication.Infrastructure\\Replication.Infrastructure.csproj|solutionrelative:replication.infrastructure\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendTransactionDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
+              "RelativeToolTip": "Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:58:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250529105010_TransactionDbCreation.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:50:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250530195632_AddingReplicationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:00:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\ApplicationAssemblyReference.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\ApplicationAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\ApplicationAssemblyReference.cs",
+              "RelativeToolTip": "Replication.Application\\ApplicationAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:24:14.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Replication.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:17:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Replication.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\DependencyInjection.cs",
+              "RelativeToolTip": "Replication.API\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:30:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Program.cs",
+              "RelativeDocumentMoniker": "Replication.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Program.cs",
+              "RelativeToolTip": "Replication.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:16:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Replication.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.json",
+              "RelativeToolTip": "Replication.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T10:35:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionCreateSaga.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
+              "RelativeToolTip": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:48:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Replication.API\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Replication.API\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:12:39.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:21:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionMessagesAndEvents.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
+              "RelativeToolTip": "Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:05:30.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:37:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfrastructureTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
+              "RelativeDocumentMoniker": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
+              "RelativeToolTip": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:24:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReplicateTransactionCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
+              "RelativeToolTip": "Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:02:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionReplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
+              "RelativeDocumentMoniker": "Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
+              "RelativeToolTip": "Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:08:35.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InfrastructureTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
+              "RelativeDocumentMoniker": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
+              "RelativeToolTip": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:16:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
+              "RelativeToolTip": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:06:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionCreateSagaData.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
+              "RelativeToolTip": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:48:40.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionReplicationStatusType.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionReplicationStatusType.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionReplicationStatusType.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionReplicationStatusType.cs",
+              "RelativeToolTip": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionReplicationStatusType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:20:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddTransactionCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
+              "RelativeToolTip": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:03:16.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:13:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Replication.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Replication.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Replication.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Replication.Infrastructure.csproj",
+              "RelativeToolTip": "Replication.Infrastructure\\Replication.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T09:43:21.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Replication.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dockerfile",
+              "RelativeToolTip": "Replication.API\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T17:34:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Replication.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Replication.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T17:22:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InfrastructureAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:32:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Replication.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.Development.json",
+              "RelativeToolTip": "Replication.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T17:51:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Replication.API.http",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Replication.API.http",
+              "RelativeDocumentMoniker": "Replication.API\\Replication.API.http",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Replication.API.http",
+              "RelativeToolTip": "Replication.API\\Replication.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-29T09:52:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
+              "RelativeToolTip": "Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:13:14.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:12:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:15:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:51:49.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:35:00.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

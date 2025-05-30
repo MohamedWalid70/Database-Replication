@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9OH4TKq7YxbpIL3lgWEeKKw4jNxSNNbTGRJsbBq5G5o=",
+  "Source": "Replication.API",
+  "BasePath": "_content/Replication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
