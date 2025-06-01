@@ -7,12 +7,6 @@
       "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\anothertransactions\\replicateanothertransactionupdatehandller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_JHQ2SRG/TransactionsDb/True/SqlTable/dbo.AnotherTransactions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_JHQ2SRG/TransactionsDb/True/SqlTable/dbo.AnotherTransactionReplications.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|c:\\users\\mw-pc\\source\\repos\\internship_task\\replication.application\\anothertransactions\\replicateanothertransactiondeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA54D80-5B3E-449E-8153-34DB9FA37F28}|Replication.Application\\Replication.Application.csproj|solutionrelative:replication.application\\anothertransactions\\replicateanothertransactiondeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -276,28 +270,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.AnotherTransactionReplications [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_JHQ2SRG/TransactionsDb/True/SqlTable/dbo.AnotherTransactionReplications.sql",
-              "ToolTip": "dbo.AnotherTransactionReplications [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-01T04:54:19.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.AnotherTransactions [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_JHQ2SRG/TransactionsDb/True/SqlTable/dbo.AnotherTransactions.sql",
-              "ToolTip": "dbo.AnotherTransactions [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-01T04:54:15.179Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -313,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ReplicateAnotherTransactionDeleteHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\ReplicateAnotherTransactionDeleteHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\ReplicateAnotherTransactionDeleteHandler.cs",
@@ -326,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ReplicateAnotherTransactionHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\ReplicateAnotherTransactionHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\ReplicateAnotherTransactionHandler.cs",
@@ -339,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AnotherTransactionMessagesAndEvents.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\AnotherTransactionMessagesAndEvents.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\AnotherTransactionMessagesAndEvents.cs",
@@ -352,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "AnotherTransactionDeleteSaga.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionDeleteSaga.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionDeleteSaga.cs",
@@ -365,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AnotherTransactionUpdateSaga.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionUpdateSaga.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionUpdateSaga.cs",
@@ -378,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Program.cs",
               "RelativeDocumentMoniker": "Replication.API\\Program.cs",
@@ -391,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AnotherTransactionSagaData.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionSagaData.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionSagaData.cs",
@@ -404,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "AnotherTransactionCreateSaga.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionCreateSaga.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\AnotherTransactionReplication\\AnotherTransactionCreateSaga.cs",
@@ -417,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Replication.API\\DependencyInjection.cs",
@@ -430,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "ReadAllAnotherTransactionsQuery.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Queries\\ReadAll\\ReadAllAnotherTransactionsQuery.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Queries\\ReadAll\\ReadAllAnotherTransactionsQuery.cs",
@@ -443,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "TransactionsController.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "Replication.API\\Controllers\\TransactionsController.cs",
@@ -456,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "20250601035013_addingTheSampleTables.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250601035013_addingTheSampleTables.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250601035013_addingTheSampleTables.cs",
@@ -469,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "AnotherTransactionsController.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Controllers\\AnotherTransactionsController.cs",
               "RelativeDocumentMoniker": "Replication.API\\Controllers\\AnotherTransactionsController.cs",
@@ -482,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "ReadAllAnotherTransactionsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Queries\\ReadAll\\ReadAllAnotherTransactionsQueryHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Queries\\ReadAll\\ReadAllAnotherTransactionsQueryHandler.cs",
@@ -495,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "AnotherTransactionDto.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dtos\\AnotherTransaction\\AnotherTransactionDto.cs",
               "RelativeDocumentMoniker": "Replication.API\\Dtos\\AnotherTransaction\\AnotherTransactionDto.cs",
@@ -508,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "20250601034820_addingTheSampleTables.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250601034820_addingTheSampleTables.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250601034820_addingTheSampleTables.cs",
@@ -521,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\DataContext\\AppDbContext.cs",
@@ -534,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "DeleteAnotherTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Delete\\DeleteAnotherTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Delete\\DeleteAnotherTransactionCommandHandler.cs",
@@ -547,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "AddAnotherTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Add\\AddAnotherTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Add\\AddAnotherTransactionCommandHandler.cs",
@@ -560,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
@@ -573,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "AnotherTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\AnotherTransaction\\AnotherTransactionService.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\AnotherTransaction\\AnotherTransactionService.cs",
@@ -586,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Repositories\\IRepository.cs",
@@ -599,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Repositories\\Repository.cs",
@@ -612,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\IQuery.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\IQuery.cs",
@@ -625,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
@@ -638,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Messaging\\ICommand.cs",
@@ -651,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "AddAnotherTransactionCommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Add\\AddAnotherTransactionCommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Add\\AddAnotherTransactionCommand.cs",
@@ -664,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "UpdateAnotherTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Update\\UpdateAnotherTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Update\\UpdateAnotherTransactionCommandHandler.cs",
@@ -677,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "TransactionCreateSaga.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSaga.cs",
@@ -690,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Replication.Application\\DependencyInjection.cs",
@@ -702,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "TransactionCreateSagaData.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\ReplicationTransactions\\TransactionCreateSagaData.cs",
@@ -715,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "TransactionReplicationStatusType.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Sagas\\TransactionReplicationStatusType.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Sagas\\TransactionReplicationStatusType.cs",
@@ -728,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "AnotherTransactionReplication.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\AnotherTransactionReplication\\AnotherTransactionReplication.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\AnotherTransactionReplication\\AnotherTransactionReplication.cs",
@@ -740,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "AnotherTransaction.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\AnotherTransaction\\AnotherTransaction.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\AnotherTransaction\\AnotherTransaction.cs",
@@ -752,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "SendTransactionDataHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\SendTransactionDataHandler.cs",
@@ -764,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "ReplicateTransactionUpdateCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionUpdateCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionUpdateCommandHandler.cs",
@@ -776,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "ReplicateTransactionDeleteCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionDeleteCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionDeleteCommandHandler.cs",
@@ -788,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "AnotherTransactionReplicationService.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\AnotherTransactionReplication\\AnotherTransactionReplicationService.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\AnotherTransactionReplication\\AnotherTransactionReplicationService.cs",
@@ -800,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "ReplicateTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
@@ -812,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "ReplicateTransactionCommands.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionCommands.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Replicate\\ReplicateTransactionCommands.cs",
@@ -824,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "TransactionMessagesAndEvents.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\TransactionMessagesAndEvents.cs",
@@ -836,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "ReplicateTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommandHandler.cs",
@@ -848,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "DeleteAnotherTransactionCommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Delete\\DeleteAnotherTransactionCommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Delete\\DeleteAnotherTransactionCommand.cs",
@@ -860,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "UpdateAnotherTransactionCommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\AnotherTransactions\\Commands\\Update\\UpdateAnotherTransactionCommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\AnotherTransactions\\Commands\\Update\\UpdateAnotherTransactionCommand.cs",
@@ -872,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "TransactionReplication.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\TransactionReplication\\TransactionReplication.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\TransactionReplication\\TransactionReplication.cs",
@@ -884,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "InfrastructureTransaction.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransaction.cs",
@@ -896,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "TransactionReplicationService.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\TransactionReplication\\TransactionReplicationService.cs",
@@ -908,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "InfrastructureTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
               "RelativeDocumentMoniker": "Replication.Domain\\Entities\\Transaction\\InfrastructureTransactionService.cs",
@@ -920,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "AddTransactionCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommandHandler.cs",
@@ -932,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "Replication.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Replication.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Replication.Infrastructure.csproj",
@@ -944,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "ReplicateTransactionCommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Replicate\\ReplicateTransactionCommand.cs",
@@ -956,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "ApplicationAssemblyReference.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\ApplicationAssemblyReference.cs",
               "RelativeDocumentMoniker": "Replication.Application\\ApplicationAssemblyReference.cs",
@@ -968,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "20250530195632_AddingReplicationsTable.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250530195632_AddingReplicationsTable.cs",
@@ -980,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "20250529105010_TransactionDbCreation.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\20250529105010_TransactionDbCreation.cs",
@@ -992,7 +966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 55,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.json",
               "RelativeDocumentMoniker": "Replication.API\\appsettings.json",
@@ -1004,7 +978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 56,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\DependencyInjection.cs",
@@ -1016,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 57,
               "Title": "AddTransactionCommand.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Transactions\\Commands\\Add\\AddTransactionCommand.cs",
@@ -1028,7 +1002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 58,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -1040,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 59,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Replication.API\\Properties\\launchSettings.json",
@@ -1052,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 60,
               "Title": "InfrastructureAssemblyReference.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\InfrastructureAssemblyReference.cs",
@@ -1064,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 61,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Replication.API\\appsettings.Development.json",
@@ -1076,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 62,
               "Title": "TransactionDto.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
               "RelativeDocumentMoniker": "Replication.API\\Dtos\\Transaction\\TransactionDto.cs",
@@ -1088,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 63,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Replication.Application\\Abstractions\\Data\\IUnitOfWork.cs",
@@ -1100,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 64,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\MW-PC\\source\\repos\\Internship_Task\\Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Replication.Infrastructure\\Data\\UnitOfWork\\UnitOfWork.cs",
