@@ -22,6 +22,34 @@ namespace Replication.Infrastructure.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Replication.Domain.Entities.AnotherTransaction.AnotherTransaction", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("Data")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AnotherTransactions", (string)null);
+                });
+
+            modelBuilder.Entity("Replication.Domain.Entities.AnotherTransactionReplication.AnotherTransactionReplication", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("Data")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AnotherTransactionReplications", (string)null);
+                });
+
             modelBuilder.Entity("Replication.Domain.Entities.Transaction.InfrastructureTransaction", b =>
                 {
                     b.Property<Guid>("Id")

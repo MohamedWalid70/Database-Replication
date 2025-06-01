@@ -1,10 +1,8 @@
 ﻿using FluentResults;
 using MediatR;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Replication.API.Dtos.Transaction;
 using Replication.Application.Transactions.Commands.Add;
-using System.Threading.Tasks;
 
 namespace Replication.API.Controllers
 {

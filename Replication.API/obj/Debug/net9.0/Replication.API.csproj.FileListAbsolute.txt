@@ -184,3 +184,4 @@ C:\Users\MW-PC\source\repos\Internship_Task\Replication.API\bin\Debug\net9.0\zh-
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.API\obj\Debug\net9.0\Replication.API.sourcelink.json

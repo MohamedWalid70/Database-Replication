@@ -57,3 +57,4 @@ C:\Users\MW-PC\source\repos\Internship_Task\bin\Debug\Microsoft.EntityFrameworkC
 C:\Users\MW-PC\source\repos\Internship_Task\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\MW-PC\source\repos\Internship_Task\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\MW-PC\source\repos\Internship_Task\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MW-PC\source\repos\Internship_Task\bin\Debug\Rebus.SqlServer.dll

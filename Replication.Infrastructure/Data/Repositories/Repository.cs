@@ -36,7 +36,7 @@ namespace Replication.Infrastructure.Data.Repositories
             _dbSet.Remove(entity);
         }
 
-        public IQueryable<TEntity> GetAllAsync()
+        public IQueryable<TEntity> GetAll()
         {
             return _dbSet.AsNoTracking();
         }

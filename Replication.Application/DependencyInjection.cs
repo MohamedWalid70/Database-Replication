@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Replication.Domain.Entities.AnotherTransaction;
+using Replication.Domain.Entities.AnotherTransactionReplication;
 using Replication.Domain.Entities.Transaction;
 using Replication.Domain.Entities.TransactionReplication;
 
@@ -12,7 +14,8 @@ namespace Replication.Application
 
             services.AddTransient<InfrastructureTransactionService>();
             services.AddTransient<TransactionReplicationService>();
-
+            services.AddScoped<AnotherTransactionService>();
+            services.AddScoped<AnotherTransactionReplicationService>();
             return services;
         }
 

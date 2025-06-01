@@ -10,3 +10,4 @@ C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\refint\Replication.Domain.dll
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.pdb
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\ref\Replication.Domain.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Domain\obj\Debug\net9.0\Replication.Domain.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\MW-PC\source\repos\Internship_Task\Replication.Infrastructure\obj\Debug
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Infrastructure\obj\Debug\net9.0\Replication.Infrastructure.pdb
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Infrastructure\obj\Debug\net9.0\Replication.Infrastructure.genruntimeconfig.cache
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Infrastructure\obj\Debug\net9.0\ref\Replication.Infrastructure.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Infrastructure\obj\Debug\net9.0\Replication.Infrastructure.sourcelink.json

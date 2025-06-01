@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Replication.Application.Sagas.ReplicationTransactions;
+namespace Replication.Application.Sagas;
 
-public enum TransactionReplicationStatusType : byte
+internal enum TransactionReplicationStatusType : byte
 {
     Failed,
     Sent,

@@ -13,3 +13,4 @@ C:\Users\MW-PC\source\repos\Internship_Task\Replication.Application\obj\Debug\ne
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Application\obj\Debug\net9.0\refint\Replication.Application.dll
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Application\obj\Debug\net9.0\Replication.Application.pdb
 C:\Users\MW-PC\source\repos\Internship_Task\Replication.Application\obj\Debug\net9.0\ref\Replication.Application.dll
+C:\Users\MW-PC\source\repos\Internship_Task\Replication.Application\obj\Debug\net9.0\Replication.Application.sourcelink.json
